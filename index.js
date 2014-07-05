@@ -2,7 +2,6 @@ var stexDev = module.exports;
 
 stexDev.gulp        = require("./lib/gulp");
 stexDev.gulpPlugins = require("./lib/gulp-plugins");
-stexDev.should      = require("should");
 stexDev.chai        = require("chai");
 stexDev.supertest   = require("supertest");
 
