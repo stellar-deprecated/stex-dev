@@ -20,6 +20,7 @@
   "dependencies": {
     "chai": "^1.9.1",
     "chai-properties": "^1.1.0",
+    "glob": "^4.0.3",
     "gulp": "^3.7.0",
     "gulp-jshint": "^1.6.1",
     "gulp-load-plugins": "^0.5.1",
