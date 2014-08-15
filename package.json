@@ -28,6 +28,7 @@
     "gulp-spawn-mocha": "^0.1.5",
     "jshint-stylish": "^0.2.0",
     "lodash": "^2.4.1",
+    "sinon": "^1.10.3",
     "supertest": "~0.11.0"
   }
 }
