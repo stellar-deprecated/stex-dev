@@ -7,6 +7,7 @@ stexDev.loadSupportFiles = require("./lib/load-support-files");
 stexDev.loadSupportFiles(__dirname + "/lib");
 
 stexDev.paths = {
+  "docs":  ['./lib/**/*.js', './README.md'],
   "lint":  ['./gulpfile.js', './lib/**/*.js', './config/**/*.js', './migrations/**/*.js'],
   "watch": ['./gulpfile.js', './lib/**', './test/**/*.js', '!test/{temp,temp/**}'],
   "tests": ['./test/**/*.js', '!test/{temp,temp/**}']

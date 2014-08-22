@@ -22,6 +22,7 @@
     "chai-properties": "^1.1.0",
     "glob": "^4.0.3",
     "gulp": "^3.7.0",
+    "gulp-jsdoc": "^0.1.4",
     "gulp-jshint": "^1.6.1",
     "gulp-load-plugins": "^0.5.1",
     "gulp-mocha": "^0.4.1",
